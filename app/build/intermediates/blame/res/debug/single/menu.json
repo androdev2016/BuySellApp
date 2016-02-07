@@ -1,10 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\SAHNI\\AndroidStudioProjects\\BuySellApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\SAHNI\\AndroidStudioProjects\\BuySellApp\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "G:\\On_going_project\\BuySellApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "G:\\On_going_project\\BuySellApp\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
         "merged": "C:\\Users\\SAHNI\\AndroidStudioProjects\\BuySellApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "C:\\Users\\SAHNI\\AndroidStudioProjects\\BuySellApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAHNI\\AndroidStudioProjects\\BuySellApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\SAHNI\\AndroidStudioProjects\\BuySellApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\On_going_project\\BuySellApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "G:\\On_going_project\\BuySellApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     }
 ]

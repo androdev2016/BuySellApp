@@ -18,6 +18,11 @@
             android:name="androdev2016.buysellapp.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name="androdev2016.buysellapp.SplashActivity"
+            android:label="@string/title_activity_splash"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
